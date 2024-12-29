@@ -24,7 +24,7 @@ The **Onchain Portfolio** is a decentralized application (dApp) that allows user
 ### Backend (Smart Contracts)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AtoMicKraK1n/onchain_portfolio.git
+   git clone https://github.com/AtoMicKraK1n/onchain_portfolio_here.git
    cd onchain_portfolio
    ```
 2. Install dependencies:
